@@ -1,5 +1,5 @@
 exports.routes = {
-    root: 'pokemonshowdown.com',
-    client: 'play.pokemonshowdown.com',
+    root: 'neodrafttest',
+    client: 'neodraft.herokuapp.com',
     replays: 'replay.pokemonshowdown.com',
 };
